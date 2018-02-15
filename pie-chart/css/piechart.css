@@ -1,0 +1,14 @@
+.arc text {
+  font: 20px sans-serif;
+  text-anchor: middle;
+}
+
+.arc path {
+  stroke: black;
+}
+body{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
